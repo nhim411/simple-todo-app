@@ -1,5 +1,5 @@
 # TodoApp built with React.js
-[![Product Name Screen Shot][product-screenshot]](https://snipboard.io/ACkBwn.jpg)
+![Demo ToDoApp](https://github.com/nhim411/simple-todo-app/blob/master/demo.jpg "TodoApp")
 * Pet project clone TodoAppMVC using React.js
 * [Demo](https://lh33r.csb.app/)
 ## Built with
@@ -7,7 +7,7 @@
 ### Installation
 1. Clone the repo
    ```sh
-   git clone https://github.com/nhim411/TodoApp-react.git
+   git clone https://github.com/nhim411/simple-todo-app.git
    ```
 2. Install NPM packages
    ```sh
