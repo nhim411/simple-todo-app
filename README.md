@@ -4,6 +4,7 @@
 * [Demo](https://lh33r.csb.app/)
 ## Built with
 * [React.js](https://reactjs.org/)
+* [Create React App](https://create-react-app.dev/)
 ### Installation
 1. Clone the repo
    ```sh
